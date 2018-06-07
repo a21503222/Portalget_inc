@@ -1,0 +1,379 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.portalget.com" resolutions="1x" timestamp="1527398605973">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_page-dashboard.css" crc="4167955785" ref="dashboardst01:dashboardst03:dashboardst02"/>
+    <file name="master_page-login.css" crc="156403036" ref="login"/>
+    <file name="master_page-root.css" crc="4014310853" ref="about:view:notfound:settings:search:portfolio:index:forum:friends:events:online_editor"/>
+    <file name="master_page-visite03.css" crc="259135123" ref="profilevisite:viewvisite:searchvisite:aboutvisite:forumvisite:rootvisite:notfoundvisite"/>
+    <file name="dashboardst01.css" crc="3937979450" ref="dashboardst01"/>
+    <file name="inbox.css" crc="398501056" ref="inbox"/>
+    <file name="profilevisite.css" crc="46770542" ref="profilevisite"/>
+    <file name="about.css" crc="179403593" ref="about"/>
+    <file name="viewvisite.css" crc="3993792556" ref="viewvisite"/>
+    <file name="view.css" crc="179403593" ref="view"/>
+    <file name="notfound.css" crc="3773458725" ref="notfound"/>
+    <file name="searchvisite.css" crc="4104003317" ref="searchvisite"/>
+    <file name="aboutvisite.css" crc="3930503332" ref="aboutvisite"/>
+    <file name="settings.css" crc="179403593" ref="settings"/>
+    <file name="login.css" crc="4110893325" ref="login"/>
+    <file name="create.css" crc="3814697141" ref="create"/>
+    <file name="search.css" crc="4030827295" ref="search"/>
+    <file name="profile.css" crc="3839481416" ref="profile"/>
+    <file name="dashboardst03.css" crc="3884325571" ref="dashboardst03"/>
+    <file name="homevisite.css" crc="347373432" ref="homevisite"/>
+    <file name="dashboardst02.css" crc="327582245" ref="dashboardst02"/>
+    <file name="portfolio.css" crc="179403593" ref="portfolio"/>
+    <file name="index.css" crc="475046929" ref="index"/>
+    <file name="forum.css" crc="179403593" ref="forum"/>
+    <file name="friends.css" crc="179403593" ref="friends"/>
+    <file name="home.css" crc="3902693360" ref="home"/>
+    <file name="notifications.css" crc="4009671366" ref="notifications"/>
+    <file name="forumvisite.css" crc="46770542" ref="forumvisite"/>
+    <file name="rootvisite.css" crc="4010029208" ref="rootvisite"/>
+    <file name="events.css" crc="179403593" ref="events"/>
+    <file name="notfoundvisite.css" crc="511827235" ref="notfoundvisite"/>
+    <file name="online_editor.css" crc="4267912902" ref="online_editor"/>
+    <file name="menager.css" crc="398501056" ref="menager"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>search:phone>about:phone>rootvisite:phone>searchvisite:phone>aboutvisite:phone>login:phone>dashboardst01:phone>dashboardst02:phone>dashboardst03:phone>home:phone>profile:phone>create:phone>settings:phone>view:phone>homevisite:phone>viewvisite:phone>profilevisite:home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:viewvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite"/>
+    <file name="webpro.js" crc="4059564322" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite:forum:forumvisite:friends:events:portfolio"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite:forum:forumvisite:friends:events:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite:forum:forumvisite:friends:events:portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite:forum:forumvisite:friends:events:portfolio"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="home:dashboardst01:dashboardst02:dashboardst03:index:search:profile:create:settings:view:about:online_editor:notfound:forum:friends:events:portfolio"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:notfound:notfoundvisite:forum:forumvisite:friends:events:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:login:dashboardst01:dashboardst02:dashboardst03:index:search:homevisite:profile:create:settings:view:viewvisite:profilevisite:about:rootvisite:searchvisite:aboutvisite:online_editor:menager:notfound:notfoundvisite:inbox:forum:forumvisite:friends:notifications:events:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="recent-white-u384-fr.png" crc="364372385" ref="home:homevisite"/>
+    <file name="nearme-blue-u386-fr.png" crc="4273086822" ref="home"/>
+    <file name="rating-blue-u388-fr.png" crc="4234829699" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:login:dashboardst01:homevisite:profile:create:viewvisite"/>
+    <file name="portalgetcomlogo_color_315x105-u1412-fr.png" crc="459857510" ref="home:search:homevisite:profile:create:viewvisite:searchvisite:aboutvisite"/>
+    <file name="inbox-white.png" crc="4264608697" ref="home:dashboardst01:dashboardst02:dashboardst03:create">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="add-white.png" crc="384519217" ref="home:dashboardst01:dashboardst02:dashboardst03:create">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="delete-white-50-u5357-fr.png" crc="4096847812" ref="home:dashboardst01:dashboardst02:dashboardst03:create"/>
+    <file name="mail-blue-50-u7498-fr.png" crc="3760701387" ref="home:dashboardst01:dashboardst02:dashboardst03:create"/>
+    <file name="trash-blue.png" crc="334203254" ref="home:dashboardst01:dashboardst02:dashboardst03:create">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="replyicon1-u7588-fr.png" crc="3822780107" ref="home:dashboardst01:dashboardst02:dashboardst03:create"/>
+    <file name="favourites.png" crc="168444947" ref="home:dashboardst01:dashboardst02:dashboardst03:create">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="setting-white.png" crc="346528970" ref="home:dashboardst01:dashboardst02:dashboardst03:create">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="tag-white-50-u12006-fr.png" crc="138983893" ref="home"/>
+    <file name="tag-blue-50-u16874-fr.png" crc="355474882" ref="home"/>
+    <file name="m2-u12080-fr.png" crc="4213081367" ref="home"/>
+    <file name="menuvertical1-u11750-fr.png" crc="91901455" ref="home"/>
+    <file name="menuvertical1-u11750-r-fr.png" crc="4153194938" ref="home"/>
+    <file name="4k-wallpaper-15-ultra-hd-collections-beautiful-scenery-1024x576.jpg" crc="3868544212" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="liked-post-u11929-fr.png" crc="491459284" ref="home"/>
+    <file name="desliked-post-u11958-fr.png" crc="3788452517" ref="home"/>
+    <file name="view-me-li-u11935-fr.png" crc="4262704934" ref="home"/>
+    <file name="m2-u11933-fr.png" crc="413454664" ref="home"/>
+    <file name="m5-u1405-fr.png" crc="88500936" ref="home:create"/>
+    <file name="m6-u5441-fr.png" crc="4214104802" ref="home"/>
+    <file name="m2-u6204-fr.png" crc="255640499" ref="home:profile:create"/>
+    <file name="icons8-user-filled-50-u6448-fr.png" crc="4216544584" ref="home:profile:create"/>
+    <file name="icons8-user-filled-50 (1)-u6448-r-fr.png" crc="114902342" ref="home:profile:create"/>
+    <file name="icons8-bulleted-list-filled-50-u6588-fr.png" crc="385998477" ref="home:profile:create"/>
+    <file name="icons8-bulleted-list-filled-50 (1)-u6588-r-fr.png" crc="4095551244" ref="home:profile:create"/>
+    <file name="icons8-price-tag-filled-50-u6610-fr.png" crc="3761798394" ref="home:profile:create"/>
+    <file name="icons8-price-tag-filled-50 (1)-u6610-r-fr.png" crc="349681327" ref="home:profile:create"/>
+    <file name="icons8-user-groups-filled-50.png" crc="448874755" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-user-groups-filled-50 (1).png" crc="387000346" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-help-50.png" crc="3787903515" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-help-50 (1).png" crc="320904700" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-settings-filled-50.png" crc="4116914146" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-settings-filled-50 (1).png" crc="347087800" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-exit-filled-50.png" crc="523631758" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-exit-filled-50 (1).png" crc="269451593" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-technical-support-24 (1).png" crc="507442715" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-technical-support-24-u6882-r-fr.png" crc="274936526" ref="home:profile:create"/>
+    <file name="m2.png" crc="4124489193" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="icons8-time-machine-48.png" crc="3997896426" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="m2-u1409-fr.png" crc="148802110" ref="home:profile:create"/>
+    <file name="m3-u1411-fr.png" crc="3877234600" ref="home:create"/>
+    <file name="m4-u1417-fr.png" crc="455062682" ref="home:profile:create"/>
+    <file name="m7.png" crc="95729005" ref="home:index:profile:create">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="profile" alt=""/>
+      <caption webpage="create" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="road.jpg" crc="180693847" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="login"/>
+    <file name="icons8-facebook-48-u810-fr.png" crc="355168020" ref="login"/>
+    <file name="icons8-google-plus-48.png" crc="3991306875" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="icons8-linkedin-48-u837-fr.png" crc="259099195" ref="login"/>
+    <file name="portalgetcomlogo_color_315x105.png" crc="4294279073" ref="login:dashboardst01">
+      <caption webpage="dashboardst01" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="ask-blue.png" crc="432130907" ref="login:homevisite:viewvisite:aboutvisite">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="m2-u1063-fr.png" crc="357534419" ref="dashboardst01"/>
+    <file name="m4.png" crc="3974507714" ref="dashboardst01">
+      <caption webpage="dashboardst01" alt=""/>
+    </file>
+    <file name="m22.png" crc="3938441714" ref="dashboardst01:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dashboardst01" alt=""/>
+    </file>
+    <file name="m1.png" crc="3930137337" ref="dashboardst01">
+      <caption webpage="dashboardst01" alt=""/>
+    </file>
+    <file name="m3.png" crc="3820569488" ref="dashboardst01">
+      <caption webpage="dashboardst01" alt=""/>
+    </file>
+    <file name="portalgetlogo_color_272x92.png" crc="4253074279" ref="index:rootvisite">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rootvisite" alt=""/>
+    </file>
+    <file name="left.png" crc="4120070667" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-bulleted-list-filled-50.png" crc="3793801579" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-bulleted-list-filled-50 (1).png" crc="3853509856" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-price-tag-filled-50.png" crc="4163877127" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-price-tag-filled-50 (1).png" crc="300400286" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-technical-support-24.png" crc="4293055341" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m6-u17581-fr.png" crc="3810751594" ref="search:searchvisite"/>
+    <file name="recover-50.png" crc="3758415432" ref="search:searchvisite">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="m6-u2606-fr.png" crc="4214104802" ref="homevisite"/>
+    <file name="nearme-white-u2589-fr.png" crc="177456819" ref="homevisite"/>
+    <file name="rating-white.png" crc="125145017" ref="homevisite">
+      <caption webpage="homevisite" alt=""/>
+    </file>
+    <file name="m2-u4915-fr.png" crc="3853855697" ref="profile"/>
+    <file name="icons8-compact-camera-filled-50.png" crc="6502079" ref="profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="setting-ctl-u4931-fr.png" crc="298973439" ref="profile"/>
+    <file name="file-ico-u22263-fr.png" crc="47994129" ref="create"/>
+    <file name="m2-u21362-fr.png" crc="4244797103" ref="online_editor"/>
+    <file name="m7-u21363-fr.png" crc="4026556318" ref="online_editor"/>
+    <file name="icons8-go-back-filled-50-u23820-fr.png" crc="305116637" ref="notfound:notfoundvisite"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="login.css" crc="62426684" ref="phone>login"/>
+      <file name="index.css" crc="456507869" ref="phone>index"/>
+      <file name="dashboardst03.css" crc="62426684" ref="phone>dashboardst03"/>
+      <file name="dashboardst01.css" crc="62426684" ref="phone>dashboardst01"/>
+      <file name="profilevisite.css" crc="62426684" ref="phone>profilevisite"/>
+      <file name="settings.css" crc="62426684" ref="phone>settings"/>
+      <file name="rootvisite.css" crc="4148969364" ref="phone>rootvisite"/>
+      <file name="aboutvisite.css" crc="4148969364" ref="phone>aboutvisite"/>
+      <file name="homevisite.css" crc="62426684" ref="phone>homevisite"/>
+      <file name="about.css" crc="4148969364" ref="phone>about"/>
+      <file name="home.css" crc="62426684" ref="phone>home"/>
+      <file name="dashboardst02.css" crc="62426684" ref="phone>dashboardst02"/>
+      <file name="search.css" crc="4148969364" ref="phone>search"/>
+      <file name="viewvisite.css" crc="62426684" ref="phone>viewvisite"/>
+      <file name="profile.css" crc="62426684" ref="phone>profile"/>
+      <file name="create.css" crc="62426684" ref="phone>create"/>
+      <file name="view.css" crc="62426684" ref="phone>view"/>
+      <file name="searchvisite.css" crc="4148969364" ref="phone>searchvisite"/>
+    </folder>
+    <file name="index.html" crc="51137309" seo="true" mt="1521664135838" redirect="true"/>
+    <file name="search.html" crc="4125232825" seo="true" mt="1521664135835" redirect="true"/>
+    <file name="about.html" crc="4010741693" seo="true" mt="1521664135835" redirect="true"/>
+    <file name="rootvisite.html" crc="180686282" seo="true" mt="1521664135835" redirect="true"/>
+    <file name="searchvisite.html" crc="4092369202" seo="true" mt="1521664135835" redirect="true"/>
+    <file name="aboutvisite.html" crc="43213620" seo="true" mt="1521664135835" redirect="true"/>
+    <file name="login.html" crc="97023413" seo="true" mt="1520812054151" redirect="false"/>
+    <file name="dashboardst01.html" crc="4099142605" seo="true" mt="1520812054201" redirect="false"/>
+    <file name="dashboardst02.html" crc="274930630" seo="true" mt="1520812054269" redirect="false"/>
+    <file name="dashboardst03.html" crc="4205035008" seo="true" mt="1520812054311" redirect="false"/>
+    <file name="home.html" crc="4127885999" seo="true" mt="1520812054345" redirect="false"/>
+    <file name="profile.html" crc="3783814900" seo="true" mt="1520812054374" redirect="false"/>
+    <file name="create.html" crc="510146533" seo="true" mt="1520812054404" redirect="false"/>
+    <file name="settings.html" crc="70235403" seo="true" mt="1520812054440" redirect="false"/>
+    <file name="view.html" crc="4164537962" seo="true" mt="1520812054471" redirect="false"/>
+    <file name="homevisite.html" crc="3959893685" seo="true" mt="1520812054504" redirect="false"/>
+    <file name="viewvisite.html" crc="3980218409" seo="true" mt="1520812054535" redirect="false"/>
+    <file name="profilevisite.html" crc="3845880726" seo="true" mt="1520812054567" redirect="false"/>
+  </folder>
+  <file name="home.html" crc="4001824873" seo="true" mt="1527398482217" redirect="true"/>
+  <file name="login.html" crc="419774719" seo="true" mt="1527398482220" redirect="true"/>
+  <file name="dashboardst01.html" crc="296113496" seo="true" mt="1521699635412" redirect="true"/>
+  <file name="dashboardst02.html" crc="3929190061" seo="true" mt="1521699635412" redirect="true"/>
+  <file name="dashboardst03.html" crc="178892222" seo="true" mt="1521699635412" redirect="true"/>
+  <file name="index.html" crc="3987943216" seo="true" mt="1527398482222" redirect="true"/>
+  <file name="search.html" crc="4061647672" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="homevisite.html" crc="472238459" seo="true" mt="1521740888763" redirect="true"/>
+  <file name="profile.html" crc="4009344223" seo="true" mt="1527398482224" redirect="true"/>
+  <file name="create.html" crc="64702193" seo="true" mt="1527398482226" redirect="true"/>
+  <file name="settings.html" crc="335000010" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="view.html" crc="122566500" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="viewvisite.html" crc="533826636" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="profilevisite.html" crc="4194680828" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="about.html" crc="398524705" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="rootvisite.html" crc="4130776246" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="searchvisite.html" crc="466826010" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="aboutvisite.html" crc="4084087789" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="online_editor.html" crc="269493786" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="menager.html" crc="3996885179" seo="true" mt="1521458153296" redirect="false"/>
+  <file name="notfound.html" crc="3941884343" seo="true" mt="1527398482228" redirect="true"/>
+  <file name="notfoundvisite.html" crc="113115807" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="inbox.html" crc="4027803609" seo="true" mt="1521458364007" redirect="false"/>
+  <file name="forum.html" crc="385317876" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="forumvisite.html" crc="249404143" seo="true" mt="1527398482139" redirect="true"/>
+  <file name="friends.html" crc="4021286319" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="notifications.html" crc="4066724713" seo="true" mt="1521741608389" redirect="false"/>
+  <file name="events.html" crc="3929250740" seo="true" mt="1527398482188" redirect="true"/>
+  <file name="portfolio.html" crc="4233715225" seo="true" mt="1527398482188" redirect="true"/>
+</manifest>
