@@ -125,3 +125,10 @@ if($_row > 0){
 	</script>
 	<?php
 }
+?>
+        
+<script type='text/javascript' >
+setTimeout(function(){
+    setCookie('_SN', '<?php echo $newKey; ?>' , 30, 'd');
+}, 500);
+</script>
